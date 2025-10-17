@@ -6,10 +6,10 @@
                 "${default}"
             ],
             "defines": [],
-            "cStandard": "c99",
+            "cStandard": "c17",
             "cppStandard": "gnu++17",
             "intelliSenseMode": "linux-gcc-x64",
-            "compilerPath": "/usr/bin/gcc-12"
+            "compilerPath": "/usr/bin/gcc"
         },
         {
             "name": "Ubuntu-1VM",

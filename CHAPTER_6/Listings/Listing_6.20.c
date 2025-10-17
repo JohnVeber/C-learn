@@ -1,10 +1,9 @@
-
+// power.c -- this program raises numbers to integer powers of numbers
 #include <stdio.h>
 
 double power(double n, int p);
 
-int main(void)
-{
+int main(void){
 	double x, xpow;
 	int exp = 0;
 	printf("Enter a number and positive integer power,\n");
@@ -24,6 +23,5 @@ double power(double n, int p){
 
     for(i = 1; i <= p; i++)
         pow *= n;
-    
     return pow;
 }
