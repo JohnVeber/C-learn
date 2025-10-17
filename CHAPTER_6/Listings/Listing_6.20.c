@@ -1,4 +1,4 @@
-// power.c -- this program raises numbers to integer powers of numbers
+// Listing 6.20 power.c -- this program raises numbers to integer powers of numbers
 #include <stdio.h>
 
 double power(double n, int p);
