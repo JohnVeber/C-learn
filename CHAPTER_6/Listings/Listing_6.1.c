@@ -1,4 +1,4 @@
-//Listing 6.1 summing.c - the program sums integers that are entered interactively
+// Listing 6.1 summing.c - the program sums integers that are entered interactively
 #include <stdio.h>
 
 void Temperatures(double FAR);
